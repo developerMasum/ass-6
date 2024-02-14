@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+
+/* .ant-table-cell{
+  background-color: #152239;
+  color: white;
+}
+.ant-table-cell :hover{
+  background-color: #152239;
+  color: white;
+}
+  
+.ant-table-body{
+  background-color: #152239;
+  color: white;
+}
+  
+.ant-table-header{
+  background-color: #152239;
+  color: white;
+}
+.ant-table-container::before{
+  background-color: #152239;
+  color: white;
+} */
+  
+/* .ant-table-thead{
+  .ant-table-cell{
+    background-color: #152239;
+    color: white;
+  }
+} */
+
+.customBg{
+  background-color: #e0e0e0;
+}
+.customText{
+ color: #02020e ;
+}
